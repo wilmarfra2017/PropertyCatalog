@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "d6HYpT6fnUj/WaqWfJgTVl+7M5r/2xw6dyyvsLTyhNo=",
+  "Source": "PropertyCatalog.Api",
+  "BasePath": "_content/PropertyCatalog.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

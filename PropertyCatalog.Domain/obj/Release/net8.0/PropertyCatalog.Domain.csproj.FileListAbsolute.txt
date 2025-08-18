@@ -1,0 +1,11 @@
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\bin\Release\net8.0\PropertyCatalog.Domain.deps.json
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\bin\Release\net8.0\PropertyCatalog.Domain.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\bin\Release\net8.0\PropertyCatalog.Domain.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\PropertyCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\PropertyCatalog.Domain.AssemblyInfoInputs.cache
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\PropertyCatalog.Domain.AssemblyInfo.cs
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\PropertyCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\PropertyCatalog.Domain.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\refint\PropertyCatalog.Domain.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\PropertyCatalog.Domain.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Domain\obj\Release\net8.0\ref\PropertyCatalog.Domain.dll

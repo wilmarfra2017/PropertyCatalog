@@ -1,0 +1,17 @@
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\bin\Release\net8.0\PropertyCatalog.Application.deps.json
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\bin\Release\net8.0\PropertyCatalog.Application.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\bin\Release\net8.0\PropertyCatalog.Application.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\bin\Release\net8.0\PropertyCatalog.Abstractions.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\bin\Release\net8.0\PropertyCatalog.Domain.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\bin\Release\net8.0\PropertyCatalog.Abstractions.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\bin\Release\net8.0\PropertyCatalog.Domain.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\PropertyCatalog.Application.csproj.AssemblyReference.cache
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\PropertyCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\PropertyCatalog.Application.AssemblyInfoInputs.cache
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\PropertyCatalog.Application.AssemblyInfo.cs
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\PropertyCatalog.Application.csproj.CoreCompileInputs.cache
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\Property.259C88FA.Up2Date
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\PropertyCatalog.Application.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\refint\PropertyCatalog.Application.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\PropertyCatalog.Application.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Application\obj\Release\net8.0\ref\PropertyCatalog.Application.dll

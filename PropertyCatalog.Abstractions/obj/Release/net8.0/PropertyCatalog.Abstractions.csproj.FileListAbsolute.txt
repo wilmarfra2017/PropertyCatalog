@@ -1,0 +1,11 @@
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\bin\Release\net8.0\PropertyCatalog.Abstractions.deps.json
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\bin\Release\net8.0\PropertyCatalog.Abstractions.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\bin\Release\net8.0\PropertyCatalog.Abstractions.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\PropertyCatalog.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\PropertyCatalog.Abstractions.AssemblyInfoInputs.cache
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\PropertyCatalog.Abstractions.AssemblyInfo.cs
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\PropertyCatalog.Abstractions.csproj.CoreCompileInputs.cache
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\PropertyCatalog.Abstractions.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\refint\PropertyCatalog.Abstractions.dll
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\PropertyCatalog.Abstractions.pdb
+C:\Repos\Million\PropertyCatalog\PropertyCatalog.Abstractions\obj\Release\net8.0\ref\PropertyCatalog.Abstractions.dll

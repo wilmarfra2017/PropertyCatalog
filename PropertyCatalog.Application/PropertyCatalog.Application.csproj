@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="13.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PropertyCatalog.Abstractions\PropertyCatalog.Abstractions.csproj" />
+    <ProjectReference Include="..\PropertyCatalog.Domain\PropertyCatalog.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
