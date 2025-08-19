@@ -67,10 +67,10 @@ PropertyCatalog.Domain/
   Entities/...
 ````
 
-#CORS
+## CORS
 
 Se habilita CORS para permitir el front React property-catalog-web.
-Ajustar el origen permitido según el entorno (p.e. http://localhost:5173).
+Ajustar el origen permitido según el entorno (ejemplo: http://localhost:5173).
 
 
 ## ENDPOINTS
