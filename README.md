@@ -6,20 +6,22 @@ Construida con **.NET 8 Minimal API**, siguiendo **Clean Architecture**, patrón
 --------------------------------------------------------------
 ## Tecnologías
 
-.NET 8 – Minimal API
-CQRS con MediatR
-MongoDB (driver oficial)
-Serilog para registrar registrar las llamadas a endpoints, validaciones y warnings (sink: consola)
-NUnit (tests)
-Swagger / OpenAPI
-Middleware propio para manejo global de excepciones
-Inyección de dependencias nativa
-CORS habilitado para el front (property-catalog-web)
+- **.NET 8** – Minimal API  
+- **CQRS** con **MediatR**  
+- **MongoDB** (driver oficial)  
+- **Serilog** (sink: consola) para registrar llamadas a endpoints, validaciones y warnings  
+- **NUnit** (tests)  
+- **Swagger / OpenAPI**  
+- Middleware propio para manejo global de excepciones  
+- Inyección de dependencias nativa  
+- **CORS** habilitado para el front (`property-catalog-web`)
 
 
-# La Api esta publicada en un App Service de Azure: 
+## La Api esta publicada en un App Service de Azure: 
 https://apppropertycatalog-gbdwgxe2ckgactgm.eastus2-01.azurewebsites.net/swagger/index.html
-# La base de datos de Mongo esta creada en un Cluster de MongoDB Atlas
+## La base de datos de Mongo esta creada en un Cluster de MongoDB Atlas
+- URL de conexion a la Base de datos para acceder por MongoDB Compass: 
+-  **mongodb+srv://mart800749:Conslt$2024*@propertycatalog.so6eha5.mongodb.net/?retryWrites=true&w=majority&appName=PropertyCatalog**
 
 
 ## Arquitectura
@@ -63,7 +65,7 @@ PropertyCatalog.Abstractions/
 
 PropertyCatalog.Domain/
   Entities/...
-
+````
 
 #CORS
 
@@ -71,14 +73,14 @@ Se habilita CORS para permitir el front React property-catalog-web.
 Ajustar el origen permitido según el entorno (p.e. http://localhost:5173).
 
 
-#ENDPOINTS
-Búsqueda paginada y filtrada de propiedades.
-/properties (GET)
+## ENDPOINTS
+- Búsqueda paginada y filtrada de propiedades.
+- /properties (GET)
 
-https://apppropertycatalog-gbdwgxe2ckgactgm.eastus2-01.azurewebsites.net/properties
+- https://apppropertycatalog-gbdwgxe2ckgactgm.eastus2-01.azurewebsites.net/properties
 
 
-
+```text
 Status 200 OK (Ejemplo)
 
 {
@@ -112,10 +114,13 @@ Status 200 OK (Ejemplo)
   "pageSize": 20,
   "total": 3
 }
+````
 
 
-/properties/{id} (GET)
+- /properties/{id} (GET)
+- https://apppropertycatalog-gbdwgxe2ckgactgm.eastus2-01.azurewebsites.net/properties/prop-1003
 
+```text
 Status 200 OK (Ejemplo)
 
 {
@@ -135,5 +140,25 @@ Status 200 OK (Ejemplo)
   "lastSaleDate": "2024-01-10T00:00:00Z",
   "lastSaleValue": 320000
 }
+````
 
 Se creó un endpoint adicional para almacenar Owners en BD Mongo
+- /owners (POST)
+
+```text
+body:
+{
+  "name": "string",
+  "address": "string",
+  "photo": "string",
+  "birthday": "2025-08-19T00:52:01.115Z"
+}
+
+Response
+Status 201 OK (Ejemplo)
+
+{
+  "idOwner": "own-971e1275ce9d4d27a08a9f6f423649be",
+  "name": "Anny Martinez"
+}
+````
