@@ -166,3 +166,6 @@ Status 201 OK (Ejemplo)
   "name": "Anny Martinez"
 }
 ````
+
+## Test Unitarios realizados
+![Vista de Swagger](TestUnitarios.png "Test Unitarios")
