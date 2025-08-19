@@ -37,6 +37,7 @@ El proyecto aplica **Clean Architecture** separando responsabilidades en capas:
 ```text
 PropertyCatalog/
   ├─ PropertyCatalog.Api
+  ├─ PropertyCatalog.Api.Tests
   ├─ PropertyCatalog.Application
   ├─ PropertyCatalog.Domain
   ├─ PropertyCatalog.Abstractions
@@ -49,6 +50,9 @@ PropertyCatalog.Api/
   Middleware/ExceptionHandlingMiddleware.cs
   Endpoints/PropertiesEndpoints.cs
   Endpoints/OwnersEndpoints.cs
+
+PropertyCatalog.Api.Tests/
+  PropertiesEndpointsTests.cs
 
 PropertyCatalog.Application/
   Properties/Queries/...
