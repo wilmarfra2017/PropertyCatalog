@@ -21,7 +21,7 @@ Construida con **.NET 8 Minimal API**, siguiendo **Clean Architecture**, patrón
 https://apppropertycatalog-gbdwgxe2ckgactgm.eastus2-01.azurewebsites.net/swagger/index.html
 ## La base de datos de Mongo esta creada en un Cluster de MongoDB Atlas
 - URL de conexion a la Base de datos para acceder por MongoDB Compass: 
--  **mongodb+srv://mart800749:Conslt$2024*@propertycatalog.so6eha5.mongodb.net/?retryWrites=true&w=majority&appName=PropertyCatalog**
+-  ### mongodb+srv://mart800749:Conslt$2024*@propertycatalog.so6eha5.mongodb.net/?retryWrites=true&w=majority&appName=PropertyCatalog ###
 
 
 ## Arquitectura
